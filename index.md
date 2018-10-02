@@ -1,20 +1,20 @@
-
+All completed 
 
 
 
 October 10 2018
-Proof of purchase compeleted
+Proof of purchase completed 
 
 September 25 2018
 Gnatt Chart Updated
-Budget Plan
+Budget Plan completed 
 
 September 18 2018
-Gnatt Chart Compeleted 
+Gnatt Chart Completed 
 
 
 September 11 2018 
-Proposal Compeleted
+Proposal Completed
 
 September 6 2018
 Repository created!
