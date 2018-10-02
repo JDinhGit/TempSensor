@@ -2,15 +2,13 @@ All completed assignments are also found on documentaion
 
 
 
-October 10 2018 - [Proof of purchase](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/Proof%20of%20Purchase.pdf)
-Completed 
-
-September 25 2018 - Gnatt Chart Updated, Budget Plan
-Completed
+October 10 2018 - [Proof of purchase Completed (https://github.com/JDinhGit/TempSensor/blob/master/Documentation/Proof%20of%20Purchase.pdf)
 
 
-September 18 2018 - Gnatt Chart
-Completed
+September 25 2018 - Gnatt Chart Updated, [Budget Plan Completed](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan.pdf)
+
+
+September 18 2018 - [Gnatt Chart Completed](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/JohnsonGnattChart.mpp)
 
 
 
