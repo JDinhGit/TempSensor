@@ -1,20 +1,20 @@
-All completed 
+All completed assignments are also found on documentaion
 
 
 
-October 10 2018
-Proof of purchase completed 
+October 10 2018 - Completed 
+Proof of purchase
 
-September 25 2018
+September 25 2018 - Completed
 Gnatt Chart Updated
-Budget Plan completed 
+Budget Plan  
 
-September 18 2018
-Gnatt Chart Completed 
+September 18 2018 - Completed
+Gnatt Chart
 
 
-September 11 2018 
-Proposal Completed
+September 11 2018 - Completed
+Proposal
 
-September 6 2018
+September 6 2018 -
 Repository created!
