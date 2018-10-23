@@ -1,6 +1,10 @@
 All completed assignments are also found on documentaion
 
 
+October 23 2018 - I managed to properly solder my i2c onto my breadboard, fritzing diagram, and raspberry pi pins number displayed. But unfortunately the raspberry pi failed to boot up.
+
+
+October 8 2018 - Raspberry Pi setup completed.
 
 October 10 2018 - [**Proof of purchase Completed**](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/Proof%20of%20Purchase.pdf)
 
