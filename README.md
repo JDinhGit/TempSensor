@@ -3,7 +3,7 @@ JDinhGit.github.io/TempSensor
 
 All completed assignments are also found on documentaion
 
-October 29 2018 - After connecting the raspberry pi to the TV at my home, the raspberry pi does work. Perhaps there was a issue with the hdmi to dvi unfortante, but thankfully I was able to identify and display my i2c (0x40) onto my pi and wireless VNC connection onto the laptop was met. 
+October 29 2018 - After connecting the raspberry pi to the TV at my home, the raspberry pi does work. Perhaps there was a issue with the hdmi to dvi unfortante, but thankfully I was able to identify and display my i2c (0x40) onto my pi and wireless VNC connection onto the laptop was met.<br>
 <a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/(0x40).png">i2c identify</a><br>
 <a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/Connection.png">Proof of connection</a><br>
 
