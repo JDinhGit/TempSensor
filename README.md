@@ -3,6 +3,8 @@ JDinhGit.github.io/TempSensor
 
 All completed assignments are also found on documentaion
 
+November 6th 2018 - PCB Laser Etched Retrieved.
+
 October 30 2018 - PCB Laser Design Completed.
 <a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png">PCB Design</a><br>
 
