@@ -4,7 +4,7 @@ JDinhGit.github.io/TempSensor
 All completed assignments are also found on documentaion
 
 October 30 2018 - PCB Laser Design Completed.
-<a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png"></a><br>
+<a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png">PCB Design</a><br>
 
 October 29 2018 - After connecting the raspberry pi to the TV at my home, the raspberry pi does work. Perhaps there was a issue with the hdmi to dvi unfortante, but thankfully I was able to identify and display my i2c (0x40) onto my pi and wireless VNC connection onto the laptop was met.<br>
 <a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/(0x40).png">i2c identify</a><br>
