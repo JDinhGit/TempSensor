@@ -4,7 +4,7 @@ JDinhGit.github.io/TempSensor
 All completed assignments are also found on documentaion
 
 November 6th 2018 - In terms of my project schedule, I am currently on track, today my PCB was made and retrieved. I was able to obtain my sockets through the prototype lab, so changes have to be made to the budget. I was able to solder everything required, without any issues, I am prepared for next week milestone.
-<a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_0905.jpg">PCB Hardware</a><br>
+<a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_20181106_131800.jpg">PCB Hardware</a><br>
 
 October 30 2018 - PCB Laser Design Completed.
 <a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png">PCB Design</a><br>
