@@ -1,7 +1,7 @@
 All completed assignments are also found on documentaion
 
-November 13 2018 - With my PCB board I was able to find my correct address (0x40), and now it was time to get my sensor to work. My goal today is to be able to display Temperature and Humidity. With the help of Leon Anavi, I was able to achieve today's goal and used his code to be able to display humidity and temperature. When testing it I left it as normal and it dipslayed standard room temperature, but when I blew on it the humidity and temperature increased.
-<a href="https://www.instructables.com/id/Detect-Temperature-and-Humidity-With-Raspberry-Pi-/">The Website I used</a><br><br>
+November 13 2018 - With my PCB board I was able to find my correct address (0x40), and now it was time to get my sensor to work. My goal today is to be able to display Temperature and Humidity. With the help of Leon Anavi, I was able to achieve today's goal and used his code to be able to display humidity and temperature. When testing it I left it as normal and it dipslayed standard room temperature, but when I blew on it the humidity and temperature increased.<br>
+<a href="https://www.instructables.com/id/Detect-Temperature-and-Humidity-With-Raspberry-Pi-/">The Website I used</a><br>
 <a href="https://github.com/leon-anavi/rpi-examples.git">Leon Anavi's github</a><br>
 
 November 6th 2018 - In terms of my project schedule, I am currently on track, today my PCB was made and retrieved. I was able to obtain my sockets through the prototype lab, so changes have to be made to the budget. I was able to solder everything required, without any issues, I am prepared for next week milestone.
