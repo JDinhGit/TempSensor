@@ -4,6 +4,8 @@ November 13 2018 - With my PCB board I was able to find my correct address (0x40
 <a href="https://www.instructables.com/id/Detect-Temperature-and-Humidity-With-Raspberry-Pi-/">The Website I used</a><br>
 <a href="https://github.com/leon-anavi/rpi-examples.git">Leon Anavi's github</a><br>
 
+![Output Sensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/SensorOutput.PNG)<br>
+
 November 6th 2018 - In terms of my project schedule, I am currently on track, today my PCB was made and retrieved. I was able to obtain my sockets through the prototype lab, so changes have to be made to the budget. I was able to solder everything required, without any issues, I am prepared for next week milestone.
 <a href ="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_20181106_131800.jpg">PCB Hardware</a><br>
 
