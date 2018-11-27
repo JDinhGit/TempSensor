@@ -1,6 +1,7 @@
 All completed assignments are also found on documentaion
 
-November 27 2018 - Today was my powerpoint presentation. Although I was nervous, as soon as I started I became much more relaxed and went through with it. As of right now I'm on track with my <a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/JohnsonGnattChart.mpp">project schedule </a>.
+November 27 2018 - Today was my powerpoint presentation. Although I was nervous, as soon as I started I became much more relaxed and went through with it. As of right now I'm on track with my <a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/JohnsonGnattChart.mpp">project schedule </a>.<br>
+<a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F%20Humidity%252FTemperature%20Sensor%20Presentation.pptx">Powerpoint Presentation</a>
 
 November 26 2018 - After 5 attempts I was finally able to make a proper enclosure, due to improper measuring and overall being a bit too aggressive on it, I would break it. Pictures will up soon.
 
