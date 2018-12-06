@@ -1,13 +1,5 @@
 All completed assignments are also found on documentaion
 
-November 27 2018 - Today was my powerpoint presentation. Although I was nervous, as soon as I started I became much more relaxed and went through with it. As of right now I'm on track with my <a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/JohnsonGnattChart.mpp">project schedule </a>.<br>
-<a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F%20Humidity%252FTemperature%20Sensor%20Presentation.pptx">Powerpoint Presentation</a>
-
-November 26 2018 - After 5 attempts I was finally able to make a proper enclosure, due to improper measuring and overall being a bit too aggressive on it, I would break it. Pictures will up soon.
-
-November 20 2018 - Today, I had a bit of stumbling due to issues with my original raspberry pi case. My case was a bit to small for both my pi, the PCB board and the sensor to fit in, so I had to go to the prototype lab to redesign a new one. Together my board was 0.115 inches to big for the regular case. I sent in my new raspberry pi diagram case and it should be ready by thursday. Therefore I'm a bit behind on my <a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/JohnsonGnattChart.mpp">project schedule </a>but should be back on track by thursday.<br>
-<a href="https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiCaseDiagram.pdf">New Raspberry pi Case</a><br> 
-
 November 13 2018 - With my PCB board I was able to find my correct address (0x40), and now it was time to get my sensor to work. My goal today is to be able to display Temperature and Humidity. With the help of Leon Anavi, I was able to achieve today's goal and used his code to be able to display humidity and temperature. When testing it I left it as normal and it dipslayed standard room temperature, but when I blew on it the humidity and temperature increased.<br><br>
 <a href="https://www.instructables.com/id/Detect-Temperature-and-Humidity-With-Raspberry-Pi-/">The Website I used</a><br>
 <a href="https://github.com/leon-anavi/rpi-examples.git">Leon Anavi's github</a><br>
