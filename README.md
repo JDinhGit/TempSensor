@@ -59,4 +59,7 @@ You can download the entire frizting gerber file [here](https://github.com/JDinh
 ## Power Up
 
 ## Testing for Hardware
-
+With the code provided in this repository, this test code should get your sensor to read and write temperature/humidity.
+[Test Code Link](https://github.com/JDinhGit/TempSensor/tree/master/HTU21D%20-%20Test%20Code/c)<br>
+Copy and save it onto your documents using:
+insert image code here
