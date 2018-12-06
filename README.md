@@ -13,6 +13,9 @@ JDinhGit.github.io/TempSensor
 
 
 ### Introduction
+HTU21D-F Temperature/Sensor. This sensors uses the ratio of air moisture to be able to measure and read both temperature and humidity. 
+In this tutorial, the goal is to able to activate the senor and have it display readings of the temperature and humidtiy.<br>
+![HTU21D-F Sensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF.jpg)
 
 ### Time Schedule
 
