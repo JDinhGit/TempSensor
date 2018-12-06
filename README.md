@@ -10,3 +10,18 @@ JDinhGit.github.io/TempSensor
 5. [PCB Soldering](#pcb-soldering)
 6. [Power Up](#power-up)
 7. [Testing of Hardware](#testing-of-hardware)
+
+
+### Introduction
+
+### Time Schedule
+
+### PCB Design Files
+
+### Assembly for Hardware
+
+### PCB Soldering
+
+### Power Up
+
+### Testing for Hardware
