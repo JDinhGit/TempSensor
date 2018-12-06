@@ -37,7 +37,9 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 ![Budget](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated%20Image).jpg)<br>
 
 ### PCB Design Files
-The PCB design is very simple as its all condenced and only a few pins are used for the raspberry pi.
+When designing the PCB you would first need a program called Fritzing. Fritzing is a application that allows developers to freely design any electronic hardware they choose. With Fritizing however it only has a select amount of hardware provided, therefore the HTU21D-F sensor is not included in friziting, but you can download it and add it with the link below. 
+
+![sensor friziting](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/Adafruit%20HTU21D-F%20Temperature%20%2B%20Humidity%20Sensor.fzpz)
 ![PCB Design](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png)<br>
 
 ### Assembly for Hardware
