@@ -22,13 +22,13 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 
 <b>Raspberry pi Setup (noobs) <b>- https://www.youtube.com/watch?v=juHoJYX86Dg<br>
  <b>Wiring</b><br>
-| Device Pin                                     | Pi           |
-| ---------------------------------------------- | ------------ |
-| 1 (VIN)                                        | [5.0v]       |
-| 2 (3.3v)                                       | [3.3v]       |
-| 3 (GND)                                        | [GND]        |
-| 4 (SDA)                                        | [GPIO 2]     |
-| 5 (SCI)                                        | [GPIO 3]     |
+| Device Pin                                     | Pi           |<br>
+| ---------------------------------------------- | ------------ |<br>
+| 1 (VIN)                                        | [5.0v]       |<br>
+| 2 (3.3v)                                       | [3.3v]       |<br>
+| 3 (GND)                                        | [GND]        |<br>
+| 4 (SDA)                                        | [GPIO 2]     |<br>
+| 5 (SCI)                                        | [GPIO 3]     |<br>
 
 ![Wiring](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_20181023_113450.jpg)<br>
 ![Budget Plan](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated).pdf)
