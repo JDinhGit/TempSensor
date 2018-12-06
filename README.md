@@ -49,7 +49,7 @@ Your diagram should look like this (This is using the alternative sensor).<br>
 Keep in mind when designing your PCB design, that the same colours should never touch, and try to use a little pins as possible. 
 ![PCB Design Hardware](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png)<br>
 
-You can download the entire frizting file [here](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/HTU21D-F.zip).<br>
+You can download the entire frizting gerber file [here](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/HTU21D-F.zip).<br>
 
 ### Assembly for Hardware
 
