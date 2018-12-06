@@ -12,12 +12,12 @@ JDinhGit.github.io/TempSensor
 7. [Testing of Hardware](#testing-of-hardware)
 
 
-### Introduction
+## Introduction
 HTU21D-F Temperature/Sensor. This sensors uses the ratio of air moisture to be able to measure and read both temperature and humidity. 
 In this tutorial, the goal is to able to activate the senor and have it display readings of the temperature and humidtiy.<br>
 ![HTU21D-F Sensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF.jpg)
 
-### Time Schedule
+## Time Schedule
 Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated).pdf) that is in the the documentations file. Not including the CPU fan, it would take a week for all the supplies necessary for this project. The CPU fan comes in around 2-3 weeks, but it is not needed for this project at the moment. Once everything has arrived, this project would take around 3 - 8 hours to complete, which also includes raspberry pi setup, wiring, and casing. However casing can take longer depending on cutting process for it. Also the wiring images are all done on breadboard and not PCB.<br>
 
 <b>Raspberry pi Setup (noobs) </b>- https://www.youtube.com/watch?v=juHoJYX86Dg<br>
@@ -36,7 +36,7 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 ![Wiring](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_20181023_113450.jpg)<br>
 ![Budget](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated%20Image).jpg)<br>
 
-### PCB Design Files
+## PCB Design Files
 When designing the PCB you would first need a program called fritzing. Fritzing is a application that allows developers to freely design any electronic hardware they choose. With Fritizing however it only has a select amount of hardware provided, therefore the HTU21D-F sensor is not included in fritzing, but you can download it and add it with the link below. 
 
 [Sensor Fritzing](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/Adafruit%20HTU21D-F%20Temperature%20%2B%20Humidity%20Sensor.fzpz)<br>
@@ -51,10 +51,12 @@ Keep in mind when designing your PCB design, that the same colours should never 
 
 You can download the entire frizting gerber file [here](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/HTU21D-F.zip).<br>
 
-### Assembly for Hardware
+## Assembly for Hardware
 
-### PCB Soldering
 
-### Power Up
+## PCB Soldering
 
-### Testing for Hardware
+## Power Up
+
+## Testing for Hardware
+
