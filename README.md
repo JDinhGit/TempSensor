@@ -39,7 +39,10 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 ### PCB Design Files
 When designing the PCB you would first need a program called Fritzing. Fritzing is a application that allows developers to freely design any electronic hardware they choose. With Fritizing however it only has a select amount of hardware provided, therefore the HTU21D-F sensor is not included in friziting, but you can download it and add it with the link below. 
 
-![sensor friziting](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/Adafruit%20HTU21D-F%20Temperature%20%2B%20Humidity%20Sensor.fzpz)
+[Sensor Fritzing](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/Adafruit%20HTU21D-F%20Temperature%20%2B%20Humidity%20Sensor.fzpz)<br>
+
+[Sensor Fritzing Alternative](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/fritzing-adafruit-HTU21DF-master(alternative).zip)<br>
+
 ![PCB Design](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png)<br>
 
 ### Assembly for Hardware
