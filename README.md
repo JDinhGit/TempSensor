@@ -44,7 +44,7 @@ When designing the PCB you would first need a program called fritzing. Fritzing 
 [Sensor Fritzing Alternative](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/fritzing-adafruit-HTU21DF-master(alternative).zip)<br>
 
 Your diagram should look like this (This is using the alternative sensor).<br>
-![Frizting Breadboard] (https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF%20(Friziting%20Diagram).png)
+![Frizting Breadboard](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF%20(Friziting%20Diagram).png)
 
 Keep in mind when designing your PCB design, that the same colours should never touch, and try to use a little pins as possible. 
 ![PCB Design Hardware](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png)<br>
