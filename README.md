@@ -31,7 +31,7 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 | 3 (GND)   | [GND]        |
 | 4 (SDA)   | [GPIO 2]     |
 | 5 (SCI)   | [GPIO 3]     |
-
+![Pinouts](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/raspberry-pi-15b.jpg)<br>
 ![Wiring](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_20181023_113450.jpg)<br>
 ![Budget Plan](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated).pdf)
 
