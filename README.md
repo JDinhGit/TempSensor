@@ -38,6 +38,7 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 
 ### PCB Design Files
 
+
 ### Assembly for Hardware
 
 ### PCB Soldering
