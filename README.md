@@ -37,7 +37,8 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 ![Budget](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated%20Image).jpg)<br>
 
 ### PCB Design Files
-
+The PCB design is very simple as its all condenced and only a few pins are used for the raspberry pi.
+![PCB Design](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-F_pcb.png)<br>
 
 ### Assembly for Hardware
 
