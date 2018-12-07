@@ -22,7 +22,7 @@ In this tutorial, the goal is to able to activate the senor and have it display 
 ## Time Schedule
 Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated).pdf) that is in the the documentations file. Not including the CPU fan, it would take a week for all the supplies necessary for this project. The CPU fan comes in around 2-3 weeks, but it is not needed for this project at the moment. Once everything has arrived, this project would take around 3 - 8 hours to complete, which also includes raspberry pi setup, wiring, and casing. However casing can take longer depending on cutting process for it. Also the wiring images are all done on breadboard and not PCB.<br>
 
-<b>Raspberry pi Setup (noobs) </b>- https://www.youtube.com/watch?v=juHoJYX86Dg<br>
+![Budget](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated%20Image).jpg)<br>
  
  <b>Wiring</b>
  
@@ -38,7 +38,6 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 
 ![Pinouts](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/raspberry-pi-15b.jpg)<br>
 ![Wiring](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_20181023_113450.jpg)<br>
-![Budget](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated%20Image).jpg)<br>
 
 ## PCB Design Files
 When designing the PCB you would first need a program called fritzing. Fritzing is a application that allows developers to freely design any electronic hardware they choose. With Fritizing however it only has a select amount of hardware provided, therefore the HTU21D-F sensor is not included in fritzing, but you can download it and add it with the link below. 
@@ -55,8 +54,12 @@ Keep in mind when designing your PCB design, that the same colours should never 
 
 You can download the entire frizting gerber file [here](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/HTU21D-F.zip).<br>
 
-## Assembly for Hardware
+### Assembly for Hardware
+Well let us begin assembling everything together.
 
+1. First we have to assemble and install the proper UI for the pi.
+
+<b>Raspberry pi Setup (noobs) </b>- https://www.youtube.com/watch?v=juHoJYX86Dg<br>
 
 ## PCB Soldering
 
