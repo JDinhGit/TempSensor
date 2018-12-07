@@ -1,6 +1,7 @@
 # TempSensor
 JDinhGit.github.io/TempSensor
 
+![HTU21D-F Sensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF.jpg)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -15,7 +16,8 @@ JDinhGit.github.io/TempSensor
 ## Introduction
 HTU21D-F Temperature/Sensor. This sensors uses the ratio of air moisture to be able to measure and read both temperature and humidity. 
 In this tutorial, the goal is to able to activate the senor and have it display readings of the temperature and humidtiy.<br>
-![HTU21D-F Sensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF.jpg)
+
+![HTU21D-F Sensor Pins](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-f%20sensorpin.jpg)
 
 ## Time Schedule
 Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated).pdf) that is in the the documentations file. Not including the CPU fan, it would take a week for all the supplies necessary for this project. The CPU fan comes in around 2-3 weeks, but it is not needed for this project at the moment. Once everything has arrived, this project would take around 3 - 8 hours to complete, which also includes raspberry pi setup, wiring, and casing. However casing can take longer depending on cutting process for it. Also the wiring images are all done on breadboard and not PCB.<br>
