@@ -54,12 +54,14 @@ Keep in mind when designing your PCB design, that the same colours should never 
 
 You can download the entire frizting gerber file [here](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/HTU21D-F.zip).<br>
 
-### Assembly for Hardware
+## Assembly for Hardware
 Well let us begin assembling everything together.
 
-1. First we have to assemble and install the proper UI for the pi.
-
-<b>Raspberry pi Setup (noobs) </b>- https://www.youtube.com/watch?v=juHoJYX86Dg<br>
+1. First we have to assemble and install the proper UI for the pi. Follow the video below for an easy tutorial.
+ ```
+ https://www.youtube.com/watch?v=juHoJYX86Dg
+ ```
+  
 
 ## PCB Soldering
 
