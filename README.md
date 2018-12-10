@@ -57,8 +57,8 @@ You can download the entire frizting gerber file [here](https://github.com/JDinh
 ## Assembly for Hardware
 Well let us begin assembling everything together.
 
-1. First we have to assemble and install the proper UI for the pi. Follow the video below for an easy tutorial.
- ![pi setup](https://www.youtube.com/watch?v=juHoJYX86Dg)<br>
+1. First we have to assemble and install the proper UI for the pi. Follow the video below for an easy tutorial.<br>
+ ![pi setup](https://www.youtube.com/watch?v=juHoJYX86Dg)
 
   
 
