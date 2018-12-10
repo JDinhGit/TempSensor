@@ -59,7 +59,7 @@ You can download the entire frizting gerber file [here](https://github.com/JDinh
 ## Assembly for Hardware
 Well let us begin assembling everything together.
 
-1. First we have to assemble and install the proper UI for the pi. Follow the video below for an easy tutorial.<br>
+First we have to assemble and install the proper UI for the pi. Follow the video below for an easy tutorial.<br>
 [Raspberry Pi Setup](https://www.youtube.com/watch?v=juHoJYX86Dg)
 
 This is optional, but it is recommended to have VNC viewer enabled on the pi and also download VNC viewer onto another machine. This allows access to the pi from another machine without the need to plug the pi into another monitor or the need to have a keyboad and mouse with it. 
