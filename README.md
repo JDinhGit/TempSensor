@@ -68,7 +68,10 @@ This is optional, but it is recommended to have VNC viewer enabled on the pi and
 [Installing VNC Viewer](https://www.youtube.com/watch?v=4pJMfvaNgaw)
 
 ## PCB Soldering
-
+###Top View
+![SolderingTop](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/TopBoard.jpg)
+###Bottom View
+![SolderingBottom](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BottomBoard.png)
 ## Power Up
 
 ## Testing for Hardware
