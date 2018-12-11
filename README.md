@@ -1,5 +1,5 @@
 # TempSensor
-HTU21D-F Temperature/Humidity Sensor (0x40)<br>
+### HTU21D-F Temperature/Humidity Sensor (0x40)
 ![HTU21D-F Sensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF.jpg)
 
 ## Table of Contents
