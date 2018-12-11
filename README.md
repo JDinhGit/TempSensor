@@ -1,5 +1,4 @@
 # TempSensor
-JDinhGit.github.io/TempSensor
 
 ![HTU21D-F Sensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21DF.jpg)
 
