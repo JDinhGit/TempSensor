@@ -72,6 +72,9 @@ This is optional, but it is recommended to have VNC viewer enabled on the pi and
 ### Bottom View
 ![SolderingBottom](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BottomBoard.png)
 
+## Sensor Soldering
+### ![SolderingSensor](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/SensorSoldering.png)
+
 ## Power Up
 In this section, we will now see if everything works, this works on whether you have soldered your PCB or you normally wired it onto your circuit board. Once connected boot up the Raspberry Pi, open the terminal window and follow these steps:<br>
 
