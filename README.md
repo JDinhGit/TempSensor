@@ -13,15 +13,15 @@
 
 
 ## Introduction
-HTU21D-F Temperature/Sensor. This sensors uses the ratio of air moisture to be able to measure and read both temperature and humidity. 
-In this tutorial, the goal is to able to activate the senor and have it display readings of the temperature and humidtiy.<br>
+HTU21D-F Temperature/Sensor. This sensor uses the ratio of air moisture to be able to measure and read both temperature and humidity. 
+In this tutorial, the goal is to able to activate the senor and have it display readings of the temperature and humidity.<br>
 
 ![HTU21D-F Sensor Pins](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/HTU21D-f%20sensorpin.jpg)<br>
 
 ![UMLDiagram](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/UML.PNG)
 
 ## Time Schedule
-Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated).pdf) that is in the the documentations file. Not including the CPU fan, it would take a week for all the supplies necessary for this project. The CPU fan comes in around 2-3 weeks, but it is not needed for this project at the moment. Once everything has arrived, this project would take around 3 - 8 hours to complete, which also includes raspberry pi setup, wiring, and casing. However casing can take longer depending on cutting process for it. Also the wiring images are all done on breadboard and not PCB.<br>
+Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated).pdf) that is in the documentations file. Not including the CPU fan, it would take a week for all the supplies necessary for this project. The CPU fan comes in around 2-3 weeks, but it is not needed for this project at the moment. Once everything has arrived, this project would take around 3 - 8 hours to complete, which also includes raspberry pi setup, wiring, and casing. However, casing can take longer depending on cutting process for it. Also the wiring images are all done on breadboard and not PCB.<br>
 
 ![Budget](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BudgetPlan(Updated%20Image).jpg)<br>
  
@@ -41,7 +41,7 @@ Following the current [budget plan](https://github.com/JDinhGit/TempSensor/blob/
 ![Wiring](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/IMG_20181023_113450.jpg)<br>
 
 ## PCB Design Files
-When designing the PCB you would first need a program called fritzing. Fritzing is an application that allows developers to freely design any electronic hardware they choose. With Fritizing however it only has a select amount of hardware provided, therefore the HTU21D-F sensor is not included in fritzing, but you can download it and add it with the link below. 
+When designing the PCB, you would first need a program called Fritzing. Fritzing is an application that allows developers to freely design any electronic hardware they choose. With Fritizing however it only has a select amount of hardware provided, therefore the HTU21D-F sensor is not included in fritzing, but you can download it and add it with the link below. 
 
 [Sensor Fritzing](https://github.com/JDinhGit/TempSensor/blob/master/PCB%20Fritzing/Adafruit%20HTU21D-F%20Temperature%20%2B%20Humidity%20Sensor.fzpz)<br>
 
@@ -62,7 +62,7 @@ First we have to assemble and install the proper UI for the pi. Follow the video
 
 [Raspberry Pi Setup](https://www.youtube.com/watch?v=juHoJYX86Dg)
 
-This is optional, but it is recommended to have VNC viewer enabled on the pi and also download VNC viewer onto another machine. This allows access to the pi from another machine without the need to plug the pi into another monitor or the need to have a keyboad and mouse with it. 
+This is optional, but it is recommended to have VNC viewer enabled on the pi and also download VNC viewer onto another machine. This allows access to the pi from another machine without the need to plug the pi into another monitor or the need to have a keyboard and mouse with it. 
 
 [Installing VNC Viewer](https://www.youtube.com/watch?v=4pJMfvaNgaw)
 
