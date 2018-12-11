@@ -109,15 +109,18 @@ cd HTU21D/c
 make
 ```
 It should display this:<br>
+
 ![Make](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/Make.PNG)<br>
 
 5. Now run it, it should display temperature and humidity:
 ```
 sudo ./HTU21D_test
 ```
+
 ![Result](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/Result.PNG)<br>
 
 6. One thing you can do to see if the sensor is still functioning, is that you can blow on it and the temperature and humidity should change.<br>
+
 ![Sensor Test](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/SensorOutput.PNG)
 
 
