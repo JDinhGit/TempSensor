@@ -81,13 +81,15 @@ In this section, we will now see if everything works, this works on whether you 
 sudo rasp-config
 ```
 2.Use your arrows keys to go down and select "Interfacing Options"
-
+![Configuration Menu](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/Configuration.PNG)
 3.Select I2C and submit yes. It should display ARM I2C is enabled.
-
+![i2c option](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/i2c.PNG)
 4.Exit by selecting the finish option. By using the command below it should your address which is (0x40).
 ```
 sudo i2cdetect -y 1
 ```
+![Address Output](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/address.PNG)
+
 ## Testing for Hardware
 With the code provided in this repository, this test code should get your sensor to read and write temperature/humidity.
 [Test Code Link](https://github.com/JDinhGit/TempSensor/tree/master/HTU21D%20-%20Test%20Code/c)<br>
