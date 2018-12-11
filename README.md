@@ -80,11 +80,11 @@ In this section, we will now see if everything works, this works on whether you 
 ```
 sudo rasp-config
 ```
-2.Use your arrows keys to go down and select "Interfacing Options"<br>
-![Configuration Menu](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/Configuration.PNG)
-3.Select I2C and submit yes. It should display ARM I2C is enabled.<br>
+2. Use your arrows keys to go down and select "Interfacing Options"<br>
+![Configuration Menu](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/Configuration.PNG)<br>
+3. Select I2C and submit yes. It should display ARM I2C is enabled.<br>
 ![i2c option](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/PiScreenshot/i2c.PNG)<br>
-4.Exit by selecting the finish option. By using the command below it should your address which is (0x40).<br>
+4. Exit by selecting the finish option. By using the command below it should your address which is (0x40).<br>
 ```
 sudo i2cdetect -y 1
 ```
