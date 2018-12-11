@@ -72,8 +72,17 @@ This is optional, but it is recommended to have VNC viewer enabled on the pi and
 ![SolderingTop](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/TopBoard.jpg)
 ### Bottom View
 ![SolderingBottom](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BottomBoard.png)
-## Power Up
 
+## Power Up
+In this section, we will now see if everything works, this works on whether you have soldered your PCB or you normally wired it onto your circuit board. Once connected boot up the Raspberry Pi, open the terminal window and follow these steps:
+1.
+```
+sudo rasp-config
+```
+2.
+```
+sudo i2cdetect -y 1
+```
 ## Testing for Hardware
 With the code provided in this repository, this test code should get your sensor to read and write temperature/humidity.
 [Test Code Link](https://github.com/JDinhGit/TempSensor/tree/master/HTU21D%20-%20Test%20Code/c)<br>
