@@ -74,12 +74,17 @@ This is optional, but it is recommended to have VNC viewer enabled on the pi and
 ![SolderingBottom](https://github.com/JDinhGit/TempSensor/blob/master/Documentation/BottomBoard.png)
 
 ## Power Up
-In this section, we will now see if everything works, this works on whether you have soldered your PCB or you normally wired it onto your circuit board. Once connected boot up the Raspberry Pi, open the terminal window and follow these steps:
-1.
+In this section, we will now see if everything works, this works on whether you have soldered your PCB or you normally wired it onto your circuit board. Once connected boot up the Raspberry Pi, open the terminal window and follow these steps:<br>
+
+1. This will bring you into the configuration tool 
 ```
 sudo rasp-config
 ```
-2.
+2.Use your arrows keys to go down and select "Interfacing Options"
+
+3.Select I2C and submit yes. It should display ARM I2C is enabled.
+
+4.Exit by selecting the finish option. By using the command below it should your address which is (0x40).
 ```
 sudo i2cdetect -y 1
 ```
